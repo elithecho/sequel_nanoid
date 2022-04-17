@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name = "sequel_nanoid"
-  spec.version = "0.1.2"
+  spec.version = "0.1.3"
   spec.authors = ["Elijah Goh"]
   spec.email = ["iamchoonggg@gmail.com"]
 
