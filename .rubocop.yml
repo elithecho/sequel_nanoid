@@ -1,4 +1,5 @@
 AllCops:
+  NewCops: enable
   TargetRubyVersion: 2.6
 
 Style/StringLiterals:
@@ -11,3 +12,15 @@ Style/StringLiteralsInInterpolation:
 
 Layout/LineLength:
   Max: 120
+
+Style/Documentation:
+  Enabled: false
+
+Naming/AccessorMethodName:
+  Enabled: false
+
+Style/GuardClause:
+  Enabled: false
+
+Gemspec/RequireMFA:
+  Enabled: false
