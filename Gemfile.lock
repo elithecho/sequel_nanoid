@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    sequel_nanoid (0.1.0)
+    sequel_nanoid (0.1.1)
       nanoid (~> 2.0)
 
 GEM
