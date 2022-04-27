@@ -17,7 +17,7 @@ If bundler is not being used to manage dependencies, install the gem by executin
 ## Usage
 
 ```ruby
-Sequel.plugin :nanoid, filed: :your_field # defaults to nanoid
+Sequel.plugin :nanoid, field: :your_field # defaults to nanoid
 ```
 
 ## Development
