@@ -2,7 +2,6 @@
 
 Sequel Nanoid is a plugin for using [nanoid](https://github.com/radeno/nanoid.rb) in your Sequel models.
 
-It is considered complete and does not need further development unless bug or require upgrades.
 
 ## Installation
 
